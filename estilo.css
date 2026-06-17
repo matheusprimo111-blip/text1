@@ -1,5 +1,9 @@
-body{ background-color: rgb(221, 128, 52);}
+body{ background-color: rgb(221, 128, 52); 
+    text-align: center;}
+div{ width: 200px;}
 
-
+#a{background-color: aqua;}
+#b{background-color: rgb(166, 255, 0);}
+#c{background-color: rgb(255, 251, 0);}
 
 
